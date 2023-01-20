@@ -15,8 +15,8 @@ distinto. Como prefieras.
 
 # Corriendo el proyecto
 
-# Instalar dependencias del proyecto
-npm install
+  # Instalar dependencias del proyecto
+  npm install
 
-# Correr el servidor de desarrollo
-npm run dev
+  # Correr el servidor de desarrollo
+  npm run dev
