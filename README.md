@@ -13,6 +13,8 @@ Cada nueva URL, debe contener todos los datos de un test:
 En cuanto a diseño, puede ser igual al del ejemplo o
 distinto. Como prefieras.
 
+ [este figma](https://www.figma.com/file/BYjaSbdPyhEL0ucneDlIQ0/Dev-Challenge?node-id=1%3A218)
+
 ## Corriendo el proyecto
 ```bash
 # Instalar dependencias del proyecto
